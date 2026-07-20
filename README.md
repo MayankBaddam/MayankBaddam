@@ -1,47 +1,43 @@
 <div align="center">
 
-# 👋 Hi, I'm Mayank Baddam
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:667eea,50:764ba2,100:f093fb&text=Mayank%20Baddam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20|%20Blockchain%20|%20AI%20Developer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Cybersecurity+%7C+Blockchain+%7C+IoT;AI+Developer;Full+Stack+Learner;Always+Building+Something+Awesome" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Cybersecurity+Enthusiast;Blockchain+Developer;AI+Application+Builder;Full+Stack+Learner;Always+Learning+🚀)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
 ```yaml
 Name: Mayank Baddam
+
 University: Woxsen University
-Major: Computer Science
+
+Degree: B.Tech Computer Science
+
 Specialization:
   - Cybersecurity
   - Blockchain
   - Internet of Things
 
-Currently Learning:
+Passionate About:
   - Artificial Intelligence
-  - Machine Learning
-  - Full Stack Development
-  - Cloud Computing
-
-Interests:
   - Secure Systems
-  - AI Applications
-  - Blockchain Development
+  - Cloud Computing
+  - Full Stack Development
   - Open Source
 ```
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mayank-reddy-baddam-17a98b2b0">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mishubaddam@gmail.com">
@@ -54,11 +50,11 @@ Interests:
 
 # 💻 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,react,nodejs,nextjs,express,mysql,mongodb,git,github,docker,linux,solidity,vscode,vercel,firebase&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,docker,linux,firebase,vercel,solidity,vscode&perline=10"/>
 
-</p>
+</div>
 
 ---
 
@@ -66,15 +62,11 @@ Interests:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayankBaddam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MayankBaddam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankBaddam&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankBaddam&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -98,13 +90,13 @@ Interests:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MayankBaddam&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MayankBaddam&theme=algolia&no-frame=true&column=4&margin-w=15"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Summary
+# 📊 Profile Summary
 
 <p align="center">
 
@@ -112,29 +104,15 @@ Interests:
 
 </p>
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MayankBaddam&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MayankBaddam&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MayankBaddam&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MayankBaddam&theme=github_dark&utcOffset=5.5"/>
-
-</p>
-
 ---
 
-# 📅 Contribution Calendar
+# 🐍 Contribution Snake
+
+> After you set up the GitHub Action (below), this image will animate automatically.
 
 <p align="center">
 
-<img src="https://ghchart.rshah.org/MayankBaddam"/>
+<img src="https://raw.githubusercontent.com/MayankBaddam/MayankBaddam/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -150,20 +128,10 @@ Interests:
 
 ---
 
-# 💡 Quote
-
 <div align="center">
 
-### *"Code with purpose. Learn without limits. Build for impact."*
+## ⭐ Thanks for visiting!
 
-</div>
-
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:f093fb,50:764ba2,100:667eea"/>
 
 </div>
