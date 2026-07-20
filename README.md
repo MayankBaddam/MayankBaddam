@@ -108,14 +108,34 @@ Passionate About:
 
 # 🐍 Contribution Snake
 
-> After you set up the GitHub Action (below), this image will animate automatically.
+name: Generate Snake
 
-<p align="center">
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-<img src="https://raw.githubusercontent.com/MayankBaddam/MayankBaddam/output/github-contribution-grid-snake-dark.svg"/>
+permissions:
+  contents: write
 
-</p>
+jobs:
+  generate:
+    runs-on: ubuntu-latest
 
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: MayankBaddam
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ---
 
 # 👀 Visitors
