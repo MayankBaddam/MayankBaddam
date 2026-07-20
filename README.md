@@ -1,32 +1,51 @@
-<h1 align="center">Hi 👋, I'm Mayank Baddam</h1>
-<h3 align="center">Computer Science Student | Cybersecurity | Blockchain | IoT | AI Enthusiast</h3>
+<div align="center">
+
+# 👋 Hi, I'm Mayank Baddam
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Cybersecurity+%7C+Blockchain+%7C+IoT;AI+Developer;Full+Stack+Learner;Always+Building+Something+Awesome" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```yaml
+Name: Mayank Baddam
+University: Woxsen University
+Major: Computer Science
+Specialization:
+  - Cybersecurity
+  - Blockchain
+  - Internet of Things
+
+Currently Learning:
+  - Artificial Intelligence
+  - Machine Learning
+  - Full Stack Development
+  - Cloud Computing
+
+Interests:
+  - Secure Systems
+  - AI Applications
+  - Blockchain Development
+  - Open Source
+```
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Blockchain+Developer;AI+Application+Builder;Full+Stack+Learner;Always+Learning+New+Technologies!" alt="Typing SVG" />
-</p>
-
----
-
-## 💫 About Me
-
-- 🎓 Computer Science student specializing in **Cybersecurity, Blockchain & IoT** at **Woxsen University**
-- 🤖 Passionate about AI-powered applications and secure software systems
-- 🌱 Currently learning **Artificial Intelligence, Blockchain & Cloud**
-- 💻 Love building real-world projects
-- 🚀 Always exploring new technologies
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
 
 <a href="https://www.linkedin.com/in/mayank-reddy-baddam-17a98b2b0">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mishubaddam@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -37,31 +56,25 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,mysql,css,html,git,github,vscode,solidity,vercel" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
-<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,react,nodejs,nextjs,express,mysql,mongodb,git,github,docker,linux,solidity,vscode,vercel,firebase&perline=10"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MayankBaddam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayankBaddam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankBaddam&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankBaddam&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -71,7 +84,7 @@
 
 ---
 
-# 📈 GitHub Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -85,49 +98,49 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MayankBaddam&theme=tokyonight&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MayankBaddam&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
 ---
 
-# 📌 GitHub Summary Cards
+# 📊 GitHub Summary
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MayankBaddam&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MayankBaddam&theme=github_dark"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MayankBaddam&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MayankBaddam&theme=github_dark"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MayankBaddam&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MayankBaddam&theme=github_dark"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MayankBaddam&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MayankBaddam&theme=github_dark"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MayankBaddam&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
-
----
-
-# 📈 Contribution Calendar
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/MayankBaddam" alt="Contribution Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MayankBaddam&theme=github_dark&utcOffset=5.5"/>
 
 </p>
 
 ---
 
-# 👀 Profile Views
+# 📅 Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/MayankBaddam"/>
+
+</p>
+
+---
+
+# 👀 Visitors
 
 <p align="center">
 
@@ -139,12 +152,18 @@
 
 # 💡 Quote
 
-<p align="center">
+<div align="center">
 
-> **"Build. Learn. Share. Repeat."**
+### *"Code with purpose. Learn without limits. Build for impact."*
 
-</p>
+</div>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
+</div>
