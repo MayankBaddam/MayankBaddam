@@ -1,8 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:667eea,50:764ba2,100:f093fb&text=Mayank%20Baddam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20|%20Blockchain%20|%20AI%20Developer&descAlignY=58"/>
+# 👋 Hi, I'm Mayank Baddam
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Cybersecurity+Enthusiast;Blockchain+Developer;AI+Application+Builder;Full+Stack+Learner;Always+Learning+🚀)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4facfe,100:00f2fe&text=Mayank%20Baddam&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20|%20Blockchain%20|%20AI%20Developer&descAlignY=60"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Cybersecurity+Enthusiast;Blockchain+Developer;Artificial+Intelligence;Always+Learning+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,28 +13,27 @@
 # 💫 About Me
 
 ```yaml
-Name: Mayank Baddam
+🎓 Student: Woxsen University
 
-University: Woxsen University
+💻 Major: Computer Science
 
-Degree: B.Tech Computer Science
+🔐 Specialization:
+  • Cybersecurity
+  • Blockchain
+  • Internet of Things
 
-Specialization:
-  - Cybersecurity
-  - Blockchain
-  - Internet of Things
+🚀 Currently Learning:
+  • Artificial Intelligence
+  • Cloud Computing
+  • Full Stack Development
 
-Passionate About:
-  - Artificial Intelligence
-  - Secure Systems
-  - Cloud Computing
-  - Full Stack Development
-  - Open Source
+🎯 Goal:
+  Build secure AI-powered software that solves real-world problems.
 ```
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -50,21 +51,21 @@ Passionate About:
 
 # 💻 Tech Stack
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,docker,linux,firebase,vercel,solidity,vscode&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,firebase,docker,linux,git,github,solidity,vscode,vercel&perline=10"/>
 
-</div>
+</p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MayankBaddam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MayankBaddam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankBaddam&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankBaddam&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -90,7 +91,7 @@ Passionate About:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MayankBaddam&theme=algolia&no-frame=true&column=4&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MayankBaddam&theme=algolia&no-frame=true&column=4"/>
 
 </p>
 
@@ -108,37 +109,23 @@ Passionate About:
 
 # 🐍 Contribution Snake
 
-name: Generate Snake
+<p align="center">
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+<picture>
 
-permissions:
-  contents: write
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayankBaddam/MayankBaddam/output/github-snake-dark.svg">
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MayankBaddam/MayankBaddam/output/github-snake.svg">
 
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: MayankBaddam
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+<img alt="Snake animation" src="https://raw.githubusercontent.com/MayankBaddam/MayankBaddam/output/github-snake.svg">
 
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+</picture>
+
+</p>
+
 ---
 
-# 👀 Visitors
+# 👀 Profile Views
 
 <p align="center">
 
@@ -152,6 +139,6 @@ jobs:
 
 ## ⭐ Thanks for visiting!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:f093fb,50:764ba2,100:667eea"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00f2fe,100:4facfe"/>
 
 </div>
