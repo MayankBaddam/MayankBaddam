@@ -29,6 +29,7 @@
 
 🎯 Goal:
   Build secure AI-powered software that solves real-world problems.
+  Build smart contracts,Learning cybersecurity practices.
 ```
 
 ---
