@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mayank Baddam
+# 👋 Hi, I'm Mayank Reddy Baddam
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4facfe,100:00f2fe&text=Mayank%20Baddam&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20|%20Blockchain%20|%20AI%20Developer&descAlignY=60"/>
 
